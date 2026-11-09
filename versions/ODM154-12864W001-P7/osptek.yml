@@ -1,0 +1,10 @@
+id: ODM154-12864W001-P7
+category: displays
+size: "1.54"
+panel: oled
+resolution: 128x64
+interface: [spi]
+driver: SPD0301
+touch: null
+outline: 42.4 x 38 x 2.56 mm
+active_area: 35.05 x 17.51 mm
